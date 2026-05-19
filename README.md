@@ -1,5 +1,3 @@
-# Mark Park (박성혁)
-
 **Digital Transformation Strategist · Enterprise Architect · AI/AX Practitioner**  
 KAIST Alumni · Seoul, South Korea
 
@@ -33,7 +31,7 @@ I believe technology only creates value through execution. I'm passionate about 
 
 ### Architecture & Infrastructure
 - Software architecture design (KOSTA Certified Master Architect)
-- Oracle DB (OCP), Microsoft infrastructure (MCSE)
+- Oracle DB (OCP), Microsoft infrastructure (MCSE, MCSD)
 - Platform strategy and ecosystem design
 
 ---
